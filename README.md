@@ -9,3 +9,5 @@
 ### Using Eureka for Discovery Server
 ### Using Spring Cloud Gateway for API Gateway
 ### Using Keycloak for Secuirty
+### Using Spring Cloud Circuit Breaker Resilience4J 
+### Using Spring Boot Actuator
